@@ -1387,7 +1387,7 @@ export default function MedicalGlossaryApp() {
             </div>
             <div>
               <h1 className="text-lg font-bold bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
-                MedFlash <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-blue-500/20 text-blue-400 border border-blue-500/30">PRO</span>
+                MedFlash
               </h1>
               <p className="text-xs text-slate-400 hidden sm:block">{uiText(languagePair, 'Glossário & Exercícios de Memorização Médica', 'Glosario y ejercicios de memorización médica')}</p>
             </div>
