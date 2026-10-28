@@ -443,7 +443,7 @@ const GLOSSARY_DATA = [
   { english: "Phototherapy", spanish: "Fototerapia", portuguese: "Fototerapia", category: "Dermatology", definition: "Uso terapêutico de luz para tratar determinadas condições de saúde." },
   { english: "Psoriasis", spanish: "Psoriasis", portuguese: "Psoríase", category: "Dermatology", definition: "Doença inflamatória crônica que pode causar placas avermelhadas e descamativas na pele." },
   { english: "Pores", spanish: "Poros", portuguese: "Poros", category: "Dermatology", definition: "Pequenas aberturas na pele associadas às glândulas sudoríparas e aos folículos pilosos." },
-  { english: "Ringworm", spanish: "Tiña", portuguese: "Tinha", category: "Dermatology", definition: "Infecção fúngica da pele que pode formar manchas arredondadas e causar coceira." },
+  { english: "Ringworm", spanish: "Tiña", portuguese: "Micose de Pele ou Tinha/Pneuzinho ", category: "Dermatology", definition: "Infecção fúngica da pele que pode formar manchas arredondadas e causar coceira." },
   { english: "Scabies", spanish: "Sarna", portuguese: "Escabiose", category: "Dermatology", definition: "Infestação da pele por ácaros que costuma causar coceira intensa." },
   { english: "Scalp", spanish: "Cuero cabelludo", portuguese: "Couro cabeludo", category: "Dermatology", definition: "Pele que recobre a parte superior da cabeça e onde crescem os cabelos." },
   { english: "Skin Culture", spanish: "Cultivo de piel", portuguese: "Cultura de pele", category: "Dermatology", definition: "Exame laboratorial que analisa uma amostra da pele para identificar microrganismos." },
