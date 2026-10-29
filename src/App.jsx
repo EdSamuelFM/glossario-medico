@@ -40,7 +40,7 @@ const GLOSSARY_DATA = [
   { english: "Earlobe", spanish: "Lóbulo de la oreja", portuguese: "Lóbulo da orelha", category: "Body Parts", definition: "Parte inferior macia e carnuda da orelha externa." },
   { english: "Feet", spanish: "Pies", portuguese: "Pés", category: "Body Parts", definition: "Extremidades inferiores das pernas que suportam o peso do corpo e permitem caminhar." },
   { english: "Fingers", spanish: "Dedos de la mano", portuguese: "Dedos da mão", category: "Body Parts", definition: "Extremidades articuladas das mãos usadas para agarrar e tato." },
-  { english: "Fontanelle", spanish: "Fontanela / Mollera", portuguese: "Fontanela / Moleira", category: "Body Parts", definition: "Espaço membranoso mole na cabeça de bebês antes dos ossos do crânio se fundirem." },
+  { english: "Fontanelle / Crown of the Head", spanish: "Fontanela / Mollera", portuguese: "Fontanela / Moleira", category: "Body Parts", definition: "Espaço membranoso mole na cabeça de bebês antes dos ossos do crânio se fundirem." },
   { english: "Crown of the head", spanish: "Coronilla", portuguese: "Alto da cabeça / coroa da cabeça", category: "Body Parts", definition: "Região mais alta da cabeça, situada no vértice do crânio." },
   { english: "Forearm", spanish: "Antebrazo", portuguese: "Antebraço", category: "Body Parts", definition: "Parte do membro superior localizada entre o cotovelo e o pulso." },
   { english: "Groin", spanish: "Ingle", portuguese: "Virilha", category: "Body Parts", definition: "Zona de junção entre a parte inferior do abdômen e as coxas." },
